@@ -1,4 +1,4 @@
-$('#name').animateCss('pulse');
+$('#header').animateCss('pulse');
 
 
 $(function() {

@@ -23,9 +23,10 @@ nav {
 }
 .toolbar li {                
 display: inline;             
-background-color: #EEE;             
+background-color: #ea967c;             
 border: 1px solid;             
-border-color: #F3F3F3 #BBB #BBB #F3F3F3;              
+border-color: #F3F3F3 #BBB #BBB #F3F3F3;
+border-radius: 25px;
 margin: 2px;              
 padding: .10em; 
 width: inherit;
@@ -50,14 +51,14 @@ background-size: 80px 60px;
 }
 
 img {
-  position: relative;
+  position: center;
   width: 1000px;
   height: 500px;
   border: 1px solid black;
   margin: 10px;
   border-radius: 10px;
-  background-position: center;
-}
+  }
+  
 p {
   margin: 10px 15px;
   padding: 20px 10px;
@@ -67,6 +68,7 @@ div {
   position: relative;
   padding: 30px 30px;
   background: linear-gradient(wite #fe777d);
+  background-color: #ea967c;
   width: 300px;
   color: #604a1d;
   font-size: medium;
@@ -114,13 +116,17 @@ textarea {
   background-image: url(./flowers);
   background: linear-gradient(wite #fe777d);
   border-radius: 25px;
+  background-color: #ea967c;
   
 }
 #message input {
   width: 100px;
   padding-top: 10px;
   border-radius: 25px;
-}  
+  background-color: #ea967c;
+  background-position: center
+  background-repeat: no-repeat;
+  }  
 
 footer {
   position: relative;

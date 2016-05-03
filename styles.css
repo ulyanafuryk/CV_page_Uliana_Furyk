@@ -26,7 +26,7 @@ display: inline;
 width: 2em;
 height: 50px;
 font-size: 30px;
-background-color: #ea967c;             
+background-color: #80933d;             
 border: 2px solid;             
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 border-radius: 15px;
@@ -135,5 +135,5 @@ footer {
   background-color: #80933d;
   text-align: center;
   color: #e9ece5;
-  padding-top: 40px;
+  padding-top: 10px;
 }

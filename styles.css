@@ -90,14 +90,14 @@ div {
   width: 300px;
   color: #604a1d;
   font-size: medium;
+  text-align: center;
   border-radius: 25px;
   box-shadow: 10px 10px 5px #677077;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 50px;
+  margin-top: 30px;
   background-size: 80px 60px;
   background-repeat: no-repeat;
-  top: 20px;
 }
 
 article {

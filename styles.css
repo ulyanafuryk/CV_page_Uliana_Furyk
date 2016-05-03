@@ -89,6 +89,7 @@ article {
   box-shadow: 10px 10px 5px #677077;
   background-color: #ffd586;
   font-size: 25px;
+  text-align: center;
   border-radius: 25px;
   background-size: 80px 60px;
   background-position: center;
@@ -96,9 +97,9 @@ article {
 }
 form {
   position: absolute;
+  background-position: center;
   text-align: center;
   padding-top: 10%;
-  font-size: xx-large;
   border-radius: 50px;
   box-shadow: 10px 10px 5px #677077;
   border-radius: 25px;
@@ -113,7 +114,6 @@ textarea {
   font-family: serif;
   font-size: 25px;
   background-attachment: scroll;
-  background-image: url(./flowers);
   background: linear-gradient(wite #fe777d);
   border-radius: 25px;
   background-color: #ea967c;

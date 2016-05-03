@@ -1,3 +1,6 @@
+$('#name').animateCss('slidelnRight');
+
+
 $(function() {
     $('#btn-send').click(function() {
         $.ajax({
@@ -10,10 +13,11 @@ $(function() {
             dataType: "json"
         })
         .done(function () {
-            $('#form').html('<h1>Thank you!</h1>');
+            $('#forma').html('<h1>Thank you!</h1>');
         })
         .fail(function (jqXHR, textStatus) {
-            $('#form').html('<h1>Error!</h1><br>'+textStatus);
+            $('#forma').html('<h1>Error!</h1><br>'+textStatus);
         });
     })
 })
+

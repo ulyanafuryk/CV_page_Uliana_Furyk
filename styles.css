@@ -27,8 +27,7 @@ background-repeat: no-repeat;
 .toolbar li {                
 display: inline;
 margin:15px;
-padding: 15px 15px;
-top: 60px;
+padding: 30px 15px;
 width: 2em;
 height: 50px;
 font-size: 30px;
@@ -38,7 +37,6 @@ border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 border-radius: 15px;
 background: linear-gradient(wite #fe777d);
 }
-
 
 header {
 position: relative;

@@ -23,9 +23,9 @@ nav {
 }
 .toolbar li {                
 display: inline;
-width: 50px;
+width: 5px;
 height: 50px;
-font-size: 15px;
+font-size: 30px;
 background-color: #ea967c;             
 border: 2px solid;             
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;

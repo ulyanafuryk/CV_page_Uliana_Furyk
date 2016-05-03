@@ -23,16 +23,15 @@ background-repeat: no-repeat;
 }
 .toolbar li {                
 display: inline;
-width: 5px;
+width: 2em;
 height: 50px;
 font-size: 30px;
 background-color: #ea967c;             
 border: 2px solid;             
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
-border-radius: 25px;
+border-radius: 15px;
 background: linear-gradient(wite #fe777d);
-margin: 10px;              
-padding: 5px; 
+
 }
 
 header {
@@ -130,11 +129,11 @@ input {
 }
 
 footer {
-  top: 500px;
+  top: 600px;
   position: relative;
-  height: 50px;
-  background-color: #252839;
+  height: 60px;
+  background-color: #80933d;
   text-align: center;
   color: #e9ece5;
-  padding-top: 15px;
+  padding-top: 5px;
 }

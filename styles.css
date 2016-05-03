@@ -100,29 +100,33 @@ article {
   background-position: center;
   background-repeat: no-repeat;
 }
-form {
+#form {
   position: absolute;
-  width: 50px;
-  height: 50px;
-  background-position: center;
-  font-size: 25px;
   text-align: center;
-  padding-top: 10%;
-  border-radius: 50px;
-  background: linear-gradient(wite #fe777d);
-  box-shadow: 10px 10px 5px #677077;
-  border-radius: 25px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 30px;
+  padding-top: 3%;
+  color: #252839;
+}
+input {
+  width: 250px;
+  padding: 12px 20px;
+  margin: 0px 1% 0 0; 
+  display: inline-block;
+  background-color: #FCFCFC;
+  border: 1px solid black;
+  border-radius: 1px;
+  box-sizing: border-box;
+  font-family: Verdana, serif;
+  font-size: 14px;
+}
+#message {
+  width: 250px;
+  height: 100px;
+  text-align: justify;
 }
 
-
-button {
-  border-radius: 25px;
-  background-size: 80px 60px;
-  background-position: center;
-  background-repeat: no-repeat;
+#btn-send {
+  width: 100px;
+  top: 5px;
 }
 
 footer {

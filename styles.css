@@ -105,6 +105,7 @@ form {
   width: 50px;
   height: 50px;
   background-position: center;
+  font-size: 25px;
   text-align: center;
   padding-top: 10%;
   border-radius: 50px;
@@ -113,27 +114,35 @@ form {
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
-
 }
+
+label {
+  background: linear-gradient(wite #fe777d);
+  box-shadow: 10px 10px 5px #677077;
+  background-color: #ffd586;
+  font-size: 25px;
+  text-align: center;
+  border-radius: 25px; 
+}
+
 textarea {
   width: 700px;
   color: wite;
+  background: linear-gradient(wite #fe777d);
   font-family: serif;
   font-size: 25px;
   background-attachment: scroll;
   background: linear-gradient(wite #fe777d);
   border-radius: 25px;
   background-color: #ea967c;
-  
 }
-input {
-  width: 100px;
-  padding-top: 100px;
+
+button {
   border-radius: 25px;
-  background-color: #ea967c;
-  position: center;
+  background-size: 80px 60px;
+  background-position: center;
   background-repeat: no-repeat;
-  }  
+}
 
 footer {
   position: relative;

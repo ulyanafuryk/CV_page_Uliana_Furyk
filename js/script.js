@@ -10,10 +10,10 @@ $(function() {
             dataType: "json"
         })
         .done(function () {
-            $('#textarea').html('<h1>Thank you!</h1>');
+            $('#form').html('<h1>Thank you!</h1>');
         })
         .fail(function (jqXHR, textStatus) {
-            $('#textarea').html('<h1>Error!</h1><br>'+textStatus);
+            $('#form').html('<h1>Error!</h1><br>'+textStatus);
         });
     })
 })

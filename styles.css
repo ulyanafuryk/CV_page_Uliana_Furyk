@@ -8,6 +8,9 @@ min-width: 600px;
 max-width: 1200px;
 background-color: #CD9B9B;
 font-family: 'Open Sans', serif;
+text-indent: 20px;
+line-height: normal;
+word-spacing: normal;
 color: #272a0f;
 background-position: inherit;
 background-repeat: no-repeat;
@@ -27,7 +30,7 @@ display: inline;
 width: 2em;
 height: 50px;
 font-size: 30px;
-background-color: #7a4252;             
+background-color: #ffd586;             
 border: 2px solid;             
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 border-radius: 15px;
@@ -51,6 +54,7 @@ margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
 background: url(./wood2.png);
+background-repeat: no-repeat;
 background-size: 80px 60px;
 }
 

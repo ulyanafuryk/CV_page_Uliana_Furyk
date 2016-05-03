@@ -22,16 +22,16 @@ nav {
   background-repeat: no-repeat;
 }
 .toolbar li {                
-display: inline;             
+display: inline;
+width: 100px;
+height: 50px;
 background-color: #ea967c;             
 border: 2px solid;             
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 border-radius: 25px;
 background: linear-gradient(wite #fe777d);
-margin: 2px;              
-padding: .10em; 
-width: 50px;
-height: 5px;
+margin: 10px;              
+padding: 5px; 
 }
 
 header {

@@ -49,7 +49,7 @@ box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-background: url(./.png);
+background: url(./water.jpg);
 background-size: 80px 60px;
 }
 
@@ -71,6 +71,10 @@ p {
   margin: 10px 15px;
   padding: 20px 10px;
   font-size: 25px;
+}
+
+h2 {
+  font-size: 30px;
 }
 
 div {

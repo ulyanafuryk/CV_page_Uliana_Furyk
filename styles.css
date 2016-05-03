@@ -21,12 +21,13 @@ overflow: hidden;
 background-size: 100px 80px;
 background-repeat: no-repeat;
 }
+
 .toolbar li {                
 display: inline;
 width: 2em;
 height: 50px;
 font-size: 30px;
-background-color: #80933d;             
+background-color: #7a4252;             
 border: 2px solid;             
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 border-radius: 15px;

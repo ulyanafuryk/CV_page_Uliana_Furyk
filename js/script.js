@@ -1,4 +1,4 @@
-$('#name').animateCss('slidelnRight');
+$('#name').animateCss('pulse');
 
 
 $(function() {

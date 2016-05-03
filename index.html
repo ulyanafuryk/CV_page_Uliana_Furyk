@@ -128,17 +128,30 @@
       
           <p>Or leave information on this form:</p>
           
-          <form action="formdata.php" method="POST" name="form1"></form>
-          <br><label>Enter your name<input type="text"name="name" size="30" maxlength="30"></label>
-          <br><label>Enter your email<input type="text"name="name" size="30" maxlength="30"></label>
-          
-          <textarea name="message" rows="10" cols="30" pattern="[A-Z]{2}[0-9]{6}[A-Z]{2}">
-            Enter your question:
-            </textarea>
-            <br>
-            <input type="submit">
-           </form>
-        </section>
+          <div id="fb">
+                   <p><b>or send me a message</b></p>
+               </div>
+               <div id="form">  
+                  <form method="GET" action="/message">
+                     
+                        <label for="name">Name:</label>
+                        <br>
+                        <input id="name" type="name" required>
+                        <br>
+                        <label for="email">Email:</label>
+                        <br>
+                        <input type="email" id="email" required>
+                        <br>
+                        <label for="message">Message:</label>
+                        <br>
+                        <input type="message" id="message" required>
+                     
+                  </form>
+                  <button id="btn-send">
+                     Send
+                     </button>
+                      <div class="arrow_up" onclick="scrollToId('#home');"></div>
+               </div> 
           
            <footer>
            <p>© 2016. All Rights Reserved</p>

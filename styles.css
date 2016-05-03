@@ -35,13 +35,14 @@ width: inherit;
 header {
 position: relative;
 color: #272a0f;
+text-align: center;
 font-size: xx-large;
 border-radius: 50px;
 box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-background: url(/.img/.jpg);
+background: url(./flowers.png);
 background-size: 80px 60px;
 }
 

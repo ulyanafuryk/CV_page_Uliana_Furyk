@@ -48,7 +48,6 @@ box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-background: url(./wood2.png);
 background-repeat: no-repeat;
 background-size: 80px 60px;
 }
@@ -145,8 +144,8 @@ input {
 }
 
 footer {
-  top: 400px;
   position: relative;
+  width: 600px;
   height: 60px;
   background-color: #80933d;
   text-align: center;

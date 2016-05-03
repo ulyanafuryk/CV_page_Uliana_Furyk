@@ -125,11 +125,12 @@ input {
 
 #btn-send {
   width: 100px;
-  top: 5px;
+  height: 50px;
+  top: 10px;
 }
 
 footer {
-  top: 700px;
+  top: 400px;
   position: relative;
   height: 60px;
   background-color: #80933d;

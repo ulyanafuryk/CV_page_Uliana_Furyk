@@ -56,6 +56,7 @@ img {
   border: 1px solid black;
   margin: 10px;
   border-radius: 10px;
+  background-position: center;
 }
 p {
   margin: 10px 15px;
@@ -86,7 +87,9 @@ article {
   box-shadow: 10px 10px 5px #677077;
   background-color: #ffd586;
   font-size: 25px;
+  border-radius: 25px;
   background-size: 80px 60px;
+  background-position: center;
   background-repeat: no-repeat;
 }
 form {
@@ -96,6 +99,7 @@ form {
   font-size: xx-large;
   border-radius: 50px;
   box-shadow: 10px 10px 5px #677077;
+  border-radius: 25px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
@@ -105,13 +109,17 @@ textarea {
   width: 700px;
   color: wite;
   font-family: serif;
+  font-size: 25px;
   background-attachment: scroll;
   background-image: url(./flowers);
   background: linear-gradient(wite #fe777d);
+  border-radius: 25px;
+  
 }
 #message input {
   width: 100px;
   padding-top: 10px;
+  border-radius: 25px;
 }  
 
 footer {
@@ -120,5 +128,6 @@ footer {
   left: 0;
   height: 70px;
   background-color:#c4d3da;
+  font-size: 25px;
   width: 100%;
 } 

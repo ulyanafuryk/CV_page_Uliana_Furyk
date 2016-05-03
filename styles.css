@@ -14,12 +14,11 @@ background-repeat: no-repeat;
 }
 
 nav {
-  max-width: 800px;
-  margin: 0 auto;
-  overflow: hidden;
-  background-image: url(./flowers.jpg);
-  background-size: 80px 60px;
-  background-repeat: no-repeat;
+max-width: 800px;
+margin: 0 auto;
+overflow: hidden;
+background-size: 80px 60px;
+background-repeat: no-repeat;
 }
 .toolbar li {                
 display: inline;
@@ -100,7 +99,7 @@ article {
   background-position: center;
   background-repeat: no-repeat;
 }
-form {
+#form {
   position: absolute;
   text-align: center;
   padding-top: 3%;

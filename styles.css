@@ -24,12 +24,14 @@ nav {
 .toolbar li {                
 display: inline;             
 background-color: #ea967c;             
-border: 1px solid;             
+border: 2px solid;             
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 border-radius: 25px;
+background: linear-gradient(wite #fe777d);
 margin: 2px;              
 padding: .10em; 
-width: inherit;
+width: 15px;
+height: 5px;
 }
 
 header {
@@ -42,7 +44,7 @@ box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-background: url(./flowers.png);
+background: url(./.png);
 background-size: 80px 60px;
 }
 

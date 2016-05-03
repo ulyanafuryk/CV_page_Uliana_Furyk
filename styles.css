@@ -17,17 +17,16 @@ background-repeat: no-repeat;
 }
 
 nav {
-max-width: 800px;
+max-width: 1200px;
 color: #e9ece5;
 overflow: hidden;
-background-size: 100px 80px;
 background-repeat: no-repeat;
 }
 
 .toolbar li {                
 display: inline;
 margin:15px;
-padding: 30px 15px;
+padding: 60px 30px;
 width: 2em;
 height: 50px;
 font-size: 30px;

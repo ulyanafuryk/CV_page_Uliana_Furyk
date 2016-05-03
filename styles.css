@@ -1,0 +1,123 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+min-width: 600px;
+max-width: 1200px;
+background-color: #CD9B9B;
+font-family: 'Open Sans', serif;
+color: #272a0f;
+background-image: url(./meeting.png);
+background-position: inherit;
+background-repeat: no-repeat;
+}
+
+nav {
+  max-width: 800px;
+  margin: 0 auto;
+  overflow: hidden;
+  background-image: url(./flowers.jpg);
+  background-size: 80px 60px;
+  background-repeat: no-repeat;
+}
+.toolbar li {                
+display: inline;             
+background-color: #EEE;             
+border: 1px solid;             
+border-color: #F3F3F3 #BBB #BBB #F3F3F3;              
+margin: 2px;              
+padding: .10em; 
+width: inherit;
+}
+
+header {
+position: relative;
+color: #272a0f;
+font-size: xx-large;
+border-radius: 50px;
+box-shadow: 10px 10px 5px #677077;
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+background: url(/.img/.jpg);
+background-size: 80px 60px;
+}
+
+.data {
+  margin: 50px, 50px;
+  padding: 10 px, 20 px;
+}
+
+img {
+  position: relative;
+  width: 1000px;
+  height: 500px;
+  border: 1px solid black;
+  margin: 10px;
+  border-radius: 10px;
+}
+p {
+  margin: 10px 15px;
+  padding: 20px 10px;
+}
+
+div {
+  position: relative;
+  padding: 30px 30px;
+  background: linear-gradient(wite #fe777d);
+  width: 300px;
+  color: #604a1d;
+  font-size: medium;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px #677077;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  background-size: 80px 60px;
+  background-repeat: no-repeat;
+}
+
+article {
+  position: relative;
+  margin: auto;
+  padding: 0, 0, 20px, 0px;
+  background: linear-gradient(wite #fe777d);
+  box-shadow: 10px 10px 5px #677077;
+  background-size: 80px 60px;
+  background-repeat: no-repeat;
+}
+form {
+  position: absolute;
+  text-align: center;
+  padding-top: 10%;
+  font-size: xx-large;
+  border-radius: 50px;
+  box-shadow: 10px 10px 5px #677077;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+
+}
+textarea {
+  width: 700px;
+  color: wite;
+  font-family: serif;
+  background-attachment: scroll;
+  background-image: url(./flowers);
+  background: linear-gradient(wite #fe777d);
+}
+#message input {
+  width: 100px;
+  padding-top: 10px;
+}  
+
+footer {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color:#c4d3da;
+  width: 100%;
+} 

@@ -125,9 +125,14 @@
           </p>
           </article>
         
+          <article>
           <p>Or leave information on this form:</p>
           
-          <form method="GET" action="/message">
+          <div id="fb">
+                   <p><b>or send me a message</b></p>
+               </div>
+               <div id="form">  
+                  <form method="GET" action="/message">
                      
                         <label for="name">Name:</label>
                         <br>
@@ -142,10 +147,12 @@
                         <input type="message" id="message" required>
                      
                   </form>
-        
-            <button id="btn-send">
+                  <button id="btn-send">
                      Send
                      </button>
+                      <div class="arrow_up" onclick="scrollToId('#home');"></div>
+               </div> 
+               </article>
           
            <footer>
            <p>© 2016. All Rights Reserved</p>

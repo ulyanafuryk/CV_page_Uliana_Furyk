@@ -127,11 +127,11 @@ textarea {
   
 }
 input {
-  width: 50px;
-  padding-top: 50px;
+  width: 100px;
+  padding-top: 100px;
   border-radius: 25px;
   background-color: #ea967c;
-  background-position: center;
+  position: center;
   background-repeat: no-repeat;
   }  
 

@@ -19,7 +19,6 @@ background-repeat: no-repeat;
 nav {
 max-width: 800px;
 color: #e9ece5;
-margin: 0 auto;
 overflow: hidden;
 background-size: 100px 80px;
 background-repeat: no-repeat;
@@ -27,6 +26,8 @@ background-repeat: no-repeat;
 
 .toolbar li {                
 display: inline;
+margin:15px;
+padding: 15px 15px;
 width: 2em;
 height: 50px;
 font-size: 30px;

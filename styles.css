@@ -31,7 +31,12 @@ border: 2px solid;
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 border-radius: 15px;
 background: linear-gradient(wite #fe777d);
+}
 
+#name {
+  -vendor-animation-duration: 3s;
+  -vendor-animation-delay: 2s;
+  -vendor-animation-iteration-count: infinite;
 }
 
 header {
@@ -99,7 +104,7 @@ article {
   background-position: center;
   background-repeat: no-repeat;
 }
-#form {
+#forma {
   position: absolute;
   text-align: center;
   padding-top: 3%;

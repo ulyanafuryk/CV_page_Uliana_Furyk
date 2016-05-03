@@ -15,9 +15,10 @@ background-repeat: no-repeat;
 
 nav {
 max-width: 800px;
+color: #e9ece5;
 margin: 0 auto;
 overflow: hidden;
-background-size: 80px 60px;
+background-size: 100px 80px;
 background-repeat: no-repeat;
 }
 .toolbar li {                

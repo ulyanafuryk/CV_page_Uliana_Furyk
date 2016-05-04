@@ -28,7 +28,6 @@ margin: 5px;
 padding: 0,5px 0,5px;
 width: 3em;
 height: 25px;
-font-family: 'Reis';
 font-size: 30px;
 position: center;
 background-color: #e38d9e;             
@@ -42,6 +41,7 @@ header {
 position: relative;
 color: #272a0f;
 text-align: center;
+font-family: 'Inkburro';
 font-size: xx-large;
 border-radius: 50px;
 box-shadow: 10px 10px 5px #677077;

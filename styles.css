@@ -29,7 +29,7 @@ background-color: #cccccc;
 
 nav {
 max-width: 1400px;
-font-family: 'Inkburro';
+font-family: ;
 color: #e9ece5;
 overflow: hidden;
 background-repeat: no-repeat;
@@ -162,11 +162,11 @@ input {
 
 footer {
   position: relative;
+  color: #e9ece5;
+  font-size: 25px;
   width: 1400px;
   height: 90px;
   background-color: #80933d;
-  background-position: left;
   text-align: center;
-  color: #e9ece5;
   top: 200px;
 }

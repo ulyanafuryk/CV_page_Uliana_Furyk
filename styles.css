@@ -25,6 +25,7 @@ color: #272a0f;
 background-position: relative;
 background-image: url('look.jpg');
 background-color: #cccccc;
+background-size: cover;
 }
 
 nav {
@@ -41,8 +42,8 @@ margin: 5px;
 padding: 0,5px 0,5px;
 width: 3em;
 height: 25px;
-font-family: 'Inkburro.ttf';
 font-size: 30px;
+font-family: 'Inkburro.ttf';
 position: center;
 background-color: #e38d9e;             
 border: 2px solid;             

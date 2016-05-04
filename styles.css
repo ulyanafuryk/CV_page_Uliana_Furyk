@@ -126,9 +126,9 @@ article {
   position: relative;
   margin: auto;
   padding: 0, 0, 20px, 0px;
+  background-color: #cfd773;
   background: linear-gradient(wite #fe777d);
   box-shadow: 10px 10px 5px #677077;
-  background-color: #cfd773;
   font-size: 25px;
   text-align: center;
   border-radius: 25px;

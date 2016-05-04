@@ -8,9 +8,22 @@
         <link rel="stylesheet" media="(min-width: 600px) and (max-width: 799px)" href="layout-mg.css">
         <link rel="stylesheet" media="(max-width: 599px)" href="layout-sm.css">
         
-      <style>
+       <style>
+ header, article {
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {background-color: #ffd586;}
+    to {background-color: #71a933;}
+   }
 
-
+/* Standard syntax */
+@keyframes mymove {
+    from {background-color: #ffd586;}
+    to {background-color: #71a933;}
+}
       </style>
        </head>
     

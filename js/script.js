@@ -1,14 +1,3 @@
-/* Chrome, Safari, Opera */
-@-webkit-keyframes mymove {
-    from {background-color: #ffd586;}
-    to {background-color: #71a933;}
-}
-
-/* Standard syntax */
-@keyframes mymove {
-    from {background-color: #ffd586;}
-    to {background-color: #71a933;}
-}
 
 $(function() {
     $('#btn-send').click(function() {

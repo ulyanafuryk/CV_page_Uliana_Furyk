@@ -4,7 +4,8 @@
 }
 
 @font-face {
-  font-family: url(./Inkburro.ttf);
+    font-family: Inkburro; 
+    src: url(./Inkburro.ttf);
 }
 
 h1 {

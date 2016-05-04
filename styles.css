@@ -25,14 +25,13 @@ word-spacing: normal;
 color: #272a0f;
 background-position: relative;
 background-image: url('look.jpg');
-background-color: #cfd773;
 background-size: 230%;
 }
 
 nav {
 max-width: 1400px;
 font-family: 'Inkburro';
-color: #783405;
+color: #cfd773;
 overflow: hidden;
 }
 
@@ -106,7 +105,7 @@ div {
   position: relative;
   padding: 30px 30px;
   background: linear-gradient(wite #fe777d);
-  background-color: #e38d9e;
+  background-color: #cfd773;
   width: 300px;
   color: #604a1d;
   font-family: 'Inkburro';

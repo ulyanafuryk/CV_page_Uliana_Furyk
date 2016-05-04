@@ -23,7 +23,7 @@ line-height: normal;
 word-spacing: normal;
 color: #272a0f;
 background-position: relative;
-background-image: url('look.jpg');
+background-image: url('look.jpg') no-repeat fixed center;
 background-color: #cccccc;
 }
 
@@ -104,7 +104,9 @@ div {
   background-color: #e38d9e;
   width: 300px;
   color: #604a1d;
+  font-family: 'Inkburro';
   font-size: medium;
+  text: bold;
   text-align: center;
   border-radius: 25px;
   box-shadow: 10px 10px 5px #677077;
@@ -145,7 +147,7 @@ input {
   border: 1px solid black;
   border-radius: 1px;
   box-sizing: border-box;
-  font-family: Verdana, serif;
+  font-family: 'Inkburro';
   font-size: 14px;
 }
 #message {

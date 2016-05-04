@@ -5,7 +5,7 @@
 
 body {
 min-width: 600px;
-max-width: 1200px;
+max-width: 1400px;
 background-color: #e5a35e;
 font-family: 'Open Sans', serif;
 text-indent: 20px;
@@ -17,7 +17,7 @@ background-repeat: no-repeat;
 }
 
 nav {
-max-width: 1200px;
+max-width: 1400px;
 color: #e9ece5;
 overflow: hidden;
 background-repeat: no-repeat;
@@ -60,8 +60,8 @@ background-size: 80px 60px;
 
 img {
   position: center;
-  width: 1000px;
-  height: 500px;
+  width: 1200px;
+  height: 600px;
   border: 1px solid black;
   margin: 10px;
   border-radius: 10px;

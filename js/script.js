@@ -1,16 +1,3 @@
-// Init navigation menu
-		jQuery(function(){
-		// main navigation init
-			jQuery('ul.sf-menu').superfish({
-				delay: 1000, // the delay in milliseconds that the mouse can remain outside a sub-menu without it closing
-				animation: {
-					opacity: "show",
-					height: "show"
-				}, // used to animate the sub-menu open
-				speed: "normal", // animation speed
-				autoArrows: false, // generation of arrow mark-up (for submenu)
-				disableHI: true // to disable hoverIntent detection
-			});
 
 $(function() {
     $('#btn-send').click(function() {

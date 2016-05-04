@@ -26,14 +26,14 @@ background-repeat: no-repeat;
 .toolbar li {                
 display: inline;
 margin:15px;
-padding: 60px 30px;
+padding: 30px 10px;
 width: 2em;
 height: 50px;
 font-size: 30px;
 background-color: #ffd586;             
 border: 2px solid;             
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
-border-radius: 15px;
+border-radius: 30px;
 background: linear-gradient(wite #fe777d);
 }
 

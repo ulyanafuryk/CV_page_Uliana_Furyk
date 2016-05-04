@@ -13,10 +13,7 @@ line-height: normal;
 word-spacing: normal;
 color: #272a0f;
 background-position: inherit;
-background-image: url('kaplya.jpg');
-background-position: top left;
--webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
-animation: mymove 5s infinite;
+background-image: url("look.jpg");
 }
 
 nav {
@@ -32,6 +29,7 @@ margin: 5px;
 padding: 0,5px 0,5px;
 width: 3em;
 height: 25px;
+font-family: 'Reis';
 font-size: 30px;
 position: center;
 background-color: #e38d9e;             
@@ -51,7 +49,7 @@ box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-background-color: #71a933;
+background-color: #ffd586;
 background-repeat: no-repeat;
 background-size: 80px 60px;
 }

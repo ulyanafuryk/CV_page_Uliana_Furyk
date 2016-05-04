@@ -6,7 +6,7 @@
 body {
 min-width: 600px;
 max-width: 1200px;
-background-color: #f83e2d;
+background-color: #fda190;
 font-family: 'Open Sans', serif;
 text-indent: 20px;
 line-height: normal;
@@ -48,6 +48,7 @@ box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
+background-color: #fce30b;
 background-repeat: no-repeat;
 background-size: 80px 60px;
 }
@@ -86,7 +87,7 @@ div {
   position: relative;
   padding: 30px 30px;
   background: linear-gradient(wite #fe777d);
-  background-color: #ea967c;
+  background-color: #fce30b;
   width: 300px;
   color: #604a1d;
   font-size: medium;

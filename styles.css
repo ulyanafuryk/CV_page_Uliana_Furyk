@@ -25,10 +25,10 @@ background-repeat: no-repeat;
 
 .toolbar li {                
 display: inline;
-margin:15px;
-padding: 30px 10px;
+margin: 15px;
+padding: 10px 10px;
 width: 2em;
-height: 50px;
+height: 30px;
 font-size: 30px;
 background-color: #ffd586;             
 border: 2px solid;             

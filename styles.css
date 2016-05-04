@@ -23,13 +23,13 @@ line-height: normal;
 word-spacing: normal;
 color: #272a0f;
 background-position: relative;
-background-image: url('look.jpg') no-repeat fixed center;
+background-image: url('look.jpg') fixed center;
 background-color: #cccccc;
 }
 
 nav {
 max-width: 1400px;
-font-family: ;
+font-family: arial;
 color: #e9ece5;
 overflow: hidden;
 background-repeat: no-repeat;

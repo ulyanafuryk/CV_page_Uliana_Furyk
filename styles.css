@@ -6,7 +6,6 @@
 body {
 min-width: 600px;
 max-width: 1400px;
-background-color: #e5a35e;
 font-family: 'Open Sans', serif;
 text-indent: 20px;
 line-height: normal;
@@ -14,7 +13,6 @@ word-spacing: normal;
 color: #272a0f;
 background-position: relative;
 background-image: url("look.jpg") 1400px 1400px;
-background-repeat: no-repeat;
 }
 
 nav {

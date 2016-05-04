@@ -1,4 +1,12 @@
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    50% {background-position: center;}
+}
 
+/* Standard syntax */
+@keyframes mymove {
+    50% {background-position: center;}
+}
 
 $(function() {
     $('#btn-send').click(function() {

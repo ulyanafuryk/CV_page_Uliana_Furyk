@@ -2,6 +2,10 @@
   margin: 0 auto;
   padding: 0;
 }
+header, article {
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+}
 
 body {
 min-width: 600px;
@@ -12,8 +16,9 @@ text-indent: 20px;
 line-height: normal;
 word-spacing: normal;
 color: #272a0f;
-background-position: inherit;
-background-image: url("look.jpg");
+background-position: relative;
+background-image: url("look.jpg") 1400px 1400px;
+background-repeat: no-repeat;
 }
 
 nav {
@@ -149,8 +154,8 @@ input {
 
 footer {
   position: relative;
-  width: 1200px;
-  height: 80px;
+  width: 1400px;
+  height: 90px;
   background-color: #80933d;
   background-position: left;
   text-align: center;

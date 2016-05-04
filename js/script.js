@@ -1,11 +1,13 @@
 /* Chrome, Safari, Opera */
 @-webkit-keyframes mymove {
-    50% {background-position: center;}
+    from {background-color: #ffd586;}
+    to {background-color: #71a933;}
 }
 
 /* Standard syntax */
 @keyframes mymove {
-    50% {background-position: center;}
+    from {background-color: #ffd586;}
+    to {background-color: #71a933;}
 }
 
 $(function() {

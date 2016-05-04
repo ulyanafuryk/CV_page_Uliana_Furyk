@@ -26,9 +26,9 @@ background-repeat: no-repeat;
 .toolbar li {                
 display: inline;
 margin: 15px;
-padding: 1px 1px;
-width: 2em;
-height: 30px;
+padding: 0,5px 0,5px;
+width: 3em;
+height: 25px;
 font-size: 30px;
 position: center;
 background-color: #ffd586;             

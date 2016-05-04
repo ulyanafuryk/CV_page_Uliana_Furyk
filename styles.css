@@ -147,11 +147,11 @@ input {
 
 footer {
   top: 200px;
-  position: absolute;
-  width: 1200px;
+  position: relative;
+  width: 800px;
   height: 80px;
   background-color: #80933d;
-  background-position: left;
+  background-position: center;
   text-align: center;
   color: #e9ece5;
   padding-top: 15px;

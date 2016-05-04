@@ -26,7 +26,7 @@ color: #272a0f;
 background-position: relative;
 background-image: url('look.jpg');
 background-color: #cccccc;
-background-size: 100%;
+background-size: 130%;
 }
 
 nav {
@@ -158,7 +158,7 @@ footer {
   position: relative;
   color: #e9ece5;
   font-size: 25px;
-  width: 1400px;
+  width: 400px;
   text-align: center;
   top: 200px;
 }

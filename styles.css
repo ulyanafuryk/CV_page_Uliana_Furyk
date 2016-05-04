@@ -17,6 +17,7 @@ h1 {
 body {
 min-width: 600px;
 max-width: 1400px;
+height: 100px;
 font-family: 'Open Sans', serif;
 text-indent: 20px;
 line-height: normal;
@@ -25,7 +26,7 @@ color: #272a0f;
 background-position: relative;
 background-image: url('look.jpg');
 background-color: #cccccc;
-background-size: cover;
+background-size: 100%;
 }
 
 nav {

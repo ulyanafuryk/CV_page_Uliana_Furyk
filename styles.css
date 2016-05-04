@@ -23,7 +23,7 @@ line-height: normal;
 word-spacing: normal;
 color: #272a0f;
 background-position: relative;
-background-image: url('look.jpg') fixed center;
+background-image: url('look.jpg') 1400px;
 background-color: #cccccc;
 }
 
@@ -151,17 +151,6 @@ input {
   font-family: 'Inkburro';
   font-size: 14px;
 }
-#message {
-  width: 250px;
-  height: 50px;
-  text-align: justify;
-}
-
-#btn-send {
-  width: 60px;
-  height: 40px;
-  top: 20px;
-}
 
 footer {
   position: relative;
@@ -173,3 +162,16 @@ footer {
   text-align: center;
   top: 200px;
 }
+
+#message {
+  width: 250px;
+  height: 50px;
+  text-align: justify;
+}
+
+#btn-send {
+  width: 40px;
+  height: 25px;
+  top: 10px;
+}
+

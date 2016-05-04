@@ -32,9 +32,8 @@ background-size: 230%;
 nav {
 max-width: 1400px;
 font-family: 'Inkburro';
-color: #e9ece5;
+background-color: #e9ece5;
 overflow: hidden;
-background-repeat: no-repeat;
 }
 
 .toolbar li {                

@@ -3,6 +3,16 @@
   padding: 0;
 }
 
+@font-face {
+  font-family: url(./Inkburro.ttf);
+}
+
+h1 {
+    font-family: 'Inkburro', arial;
+    font-weight: normal;
+}
+
+
 body {
 min-width: 600px;
 max-width: 1400px;
@@ -13,6 +23,7 @@ word-spacing: normal;
 color: #272a0f;
 background-position: relative;
 background-image: url('look.jpg');
+background-color: #cccccc;
 }
 
 nav {
@@ -35,6 +46,7 @@ border: 2px solid;
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 border-radius: 5px;
 background: linear-gradient(wite #fe777d);
+top: 20px;
 }
 
 header {

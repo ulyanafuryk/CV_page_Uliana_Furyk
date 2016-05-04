@@ -12,7 +12,7 @@ line-height: normal;
 word-spacing: normal;
 color: #272a0f;
 background-position: relative;
-background-image: url("lev.jpg");
+background-image: url("kaplya.jpg");
 }
 
 nav {
@@ -41,7 +41,7 @@ header {
 position: relative;
 color: #272a0f;
 text-align: center;
-font-family: 'Inkburro';
+font-family: 'Inkburro.ttf';
 font-size: xx-large;
 border-radius: 50px;
 box-shadow: 10px 10px 5px #677077;

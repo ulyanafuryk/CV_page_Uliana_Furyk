@@ -24,6 +24,7 @@ word-spacing: normal;
 color: #272a0f;
 background-image: url('kvit.jpg');
 background-position: relative;
+background-attachment: scroll;
 background-repeat: no-repeat;
 }
 
@@ -77,7 +78,7 @@ background-size: 80px 60px;
 img {
   position: center;
   width: 600px;
-  height: 500px;
+  height: 300px;
   border: 1px solid black;
   margin: 10px;
   border-radius: 10px;

@@ -23,9 +23,11 @@ text-indent: 20px;
 line-height: normal;
 word-spacing: normal;
 color: #272a0f;
-background-image: url('kvit.jpg');
-width: 100% 100%;
-background-repeat: no-repeat;
+background-image: url('kvit.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
 
 nav {

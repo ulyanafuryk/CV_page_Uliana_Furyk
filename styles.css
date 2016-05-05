@@ -24,9 +24,7 @@ line-height: normal;
 word-spacing: normal;
 color: #272a0f;
 background-image: url('kvit.jpg');
-background-position: inherit;
-
-background-attachment: scroll;
+width: 100% 100%;
 background-repeat: no-repeat;
 }
 
@@ -45,10 +43,10 @@ a {
 
 .toolbar li {                
 display: inline;
-margin: 5px;
+margin: 2px;
 padding: 0,2px 0,2px;
-width: 3em;
-height: 25px;
+width: 2em;
+height: 15px;
 font: italic bold;
 font-family: 'Inkburro';
 font-size: 30px;
@@ -143,10 +141,6 @@ article {
   background-position: center;
   background-repeat: no-repeat;
   top: 15px;
-}
-.circle {
-  color: #9a573b;
-  position: relative;
 }
 
 #forma {

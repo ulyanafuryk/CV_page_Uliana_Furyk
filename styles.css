@@ -24,7 +24,8 @@ line-height: normal;
 word-spacing: normal;
 color: #272a0f;
 background-image: url('kvit.jpg');
-background-position: relative;
+background-position: inherit;
+
 background-attachment: scroll;
 background-repeat: no-repeat;
 }
@@ -33,7 +34,13 @@ nav {
 max-width: 1000px;
 font-family: 'Inkburro';
 color: #cfd773;
+position: relative;
+background-position: center;
 overflow: hidden;
+}
+
+a {
+  color: white;
 }
 
 .toolbar li {                
@@ -137,11 +144,16 @@ article {
   background-repeat: no-repeat;
   top: 15px;
 }
+.circle {
+  color: #9a573b;
+  position: relative;
+}
+
 #forma {
   position: center;
   text-align: center;
   padding-top: 20px;
-  color: #252839;
+  color: white;
 }
 input {
   width: 250px;

@@ -13,23 +13,24 @@ h1 {
     font-weight: normal;
 }
 
-
 body {
-min-width: 600px;
-max-width: 1400px;
+min-width: 500px;
+max-width: 1000px;
 height: 100px;
 font-family: 'Open Sans', serif;
 text-indent: 20px;
 line-height: normal;
 word-spacing: normal;
 color: #272a0f;
-background-position: relative;
 background-image: url('kvit.jpg');
-background-size: 230%;
+background-position: relative;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+
 }
 
 nav {
-max-width: 1400px;
+max-width: 1000px;
 font-family: 'Inkburro';
 color: #cfd773;
 overflow: hidden;
@@ -46,7 +47,7 @@ font-family: 'Inkburro';
 font-size: 30px;
 color: #272a0f;
 position: center;
-background-color: #e38d9e;             
+background-color: #9a573b;             
 border: 2px solid;             
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 border-radius: 5px;
@@ -77,8 +78,8 @@ background-size: 80px 60px;
 
 img {
   position: center;
-  width: 1100px;
-  height: 600px;
+  width: 1000px;
+  height: 900px;
   border: 1px solid black;
   margin: 10px;
   border-radius: 10px;
@@ -105,7 +106,7 @@ div {
   position: relative;
   padding: 30px 30px;
   background: linear-gradient(wite #fe777d);
-  background-color: #cfd773;
+  background-color: #9a573b;
   width: 300px;
   color: #604a1d;
   font-family: 'Inkburro';

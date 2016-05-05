@@ -13,7 +13,18 @@ h1 {
     font-weight: normal;
 }
 
+html {
+    background: url("../kvit.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 body {
+background: url("./kvit.jpg") no-repeat center center fixed;
+margin: auto;
+padding: 0 0 1em 0;
 min-width: 500px;
 max-width: 1000px;
 height: 100px;
@@ -23,8 +34,6 @@ text-indent: 20px;
 line-height: normal;
 word-spacing: normal;
 color: #272a0f;
-background-image: url('kvit.jpg') no-repeat center center fixed;
-background-size: cover;
 }
 
 nav {

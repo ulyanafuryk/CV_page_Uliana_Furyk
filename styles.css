@@ -41,13 +41,13 @@ a {
 
 .toolbar li {                
 display: inline;
-margin: 2px;
-padding: 0,2px 0,2px;
-width: 2em;
-height: 15px;
+margin: 0px;
+padding: 0px 0px;
+width: 1em;
+height: 7px;
 font: italic bold;
 font-family: 'Inkburro';
-font-size: 30px;
+font-size: 10px;
 color: white;
 position: center;
 background-color: #9a573b;             

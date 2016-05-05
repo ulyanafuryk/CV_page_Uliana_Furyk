@@ -18,6 +18,7 @@ min-width: 500px;
 max-width: 1000px;
 height: 100px;
 font-family: 'Open Sans', serif;
+color: #9a573b;
 text-indent: 20px;
 line-height: normal;
 word-spacing: normal;
@@ -38,13 +39,13 @@ overflow: hidden;
 .toolbar li {                
 display: inline;
 margin: 5px;
-padding: 0,5px 0,5px;
+padding: 0,2px 0,2px;
 width: 3em;
 height: 25px;
 font: italic bold;
 font-family: 'Inkburro';
 font-size: 30px;
-color: #272a0f;
+color: white;
 position: center;
 background-color: #9a573b;             
 border: 2px solid;             
@@ -107,7 +108,7 @@ div {
   background: linear-gradient(wite #fe777d);
   background-color: #9a573b;
   width: 300px;
-  color: #604a1d;
+  color: white;
   font-family: 'Inkburro';
   font-size: medium;
   text: bold;
@@ -131,7 +132,7 @@ article {
   font-size: 25px;
   text-align: center;
   border-radius: 25px;
-  background-size: 80px 60px;
+  background-size: 110px 90px;
   background-position: center;
   background-repeat: no-repeat;
   top: 15px;
@@ -139,7 +140,7 @@ article {
 #forma {
   position: center;
   text-align: center;
-  padding-top: 15px;
+  padding-top: 20px;
   color: #252839;
 }
 input {

@@ -58,6 +58,10 @@ background: linear-gradient(wite #fe777d);
 top: 20px;
 }
 
+li {
+  display: block;
+}
+
 header {
 position: relative;
 color: #272a0f;
